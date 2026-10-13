@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0",
+  "python_tests_passed": 59,
+  "python_session_dbus_tests_passed": 3,
+  "python_session_dbus_tests_skipped": 0,
+  "python_test_environment": "system Python/Gio, isolated session D-Bus, fake device and temporary CLI config",
+  "javascript_tests_passed": 15,
+  "javascript_ui_test_environment": "mock St/Clutter, not native GNOME Shell",
+  "syntax_compile": "passed",
+  "installer_dry_run": "passed",
+  "assets": "four original generated layers verified byte-identical",
+  "native_gnome_popup_runtime": "requires user testing on GNOME Shell 50.5",
+  "prior_hardware": "user confirmed v0.2 panel controls on CachyOS",
+  "case_lid_detection": "not implemented; trigger is Connected + completed status"
+}

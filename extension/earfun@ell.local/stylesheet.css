@@ -1,0 +1,19 @@
+.earfun-panel-label { font-size: 0.85em; margin-left: 5px; }
+.earfun-title { font-weight: bold; }
+.earfun-detail { font-size: 0.9em; }
+.earfun-batteries { spacing: 22px; padding: 8px 0; }
+.earfun-battery { spacing: 5px; min-width: 65px; }
+.earfun-battery-value { font-size: 1.35em; font-weight: bold; }
+.earfun-message { max-width: 340px; font-size: 0.85em; }
+
+.earfun-welcome { padding: 0; border-radius: 26px; }
+.earfun-welcome-title { text-align: center; font-size: 21px; font-weight: 500; }
+.earfun-welcome-status { text-align: center; font-size: 13px; }
+.earfun-welcome-close { border-radius: 18px; font-size: 23px; padding: 0; }
+.earfun-welcome-close:hover { background-color: rgba(128,128,128,0.15); }
+.earfun-welcome-battery-label { text-align: center; font-size: 12px; }
+.earfun-welcome-battery-value { text-align: center; font-size: 23px; font-weight: 500; }
+.earfun-welcome-track { background-color: rgba(128,128,128,0.22); border-radius: 4px; }
+.earfun-welcome-bar { background-color: #86a865; border-radius: 4px; }
+.earfun-welcome-footer { text-align: center; font-size: 11px; border-radius: 8px; padding: 0; }
+.earfun-welcome-footer:hover { background-color: rgba(128,128,128,0.12); }

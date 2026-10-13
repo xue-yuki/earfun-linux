@@ -1,0 +1,11 @@
+{
+  "uuid": "earfun@ell.local",
+  "name": "EarFun Panel",
+  "description": "EarFun Air Pro 4i panel controls and animated connection popup with live batteries.",
+  "url": "https://github.com/xue-yuki/earfun-linux",
+  "shell-version": [
+    "50"
+  ],
+  "version": 3,
+  "version-name": "0.3.0"
+}

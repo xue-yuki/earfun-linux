@@ -1,0 +1,22 @@
+{
+  "case-body.png": {
+    "sha256": "406e5cef50bed7f9e4af4131cff54f2a19fcc52986d70e92943028a8f3a53c6f",
+    "source_generated_image": "exec-b23c7ecb-ea17-46f2-98b4-d832dfea22ca.png",
+    "unaltered": true
+  },
+  "case-lid.png": {
+    "sha256": "917b49198d19921e9ce4491775a97e66649b90fb312d0566c0895bf1f7954a5a",
+    "source_generated_image": "exec-d1d409a2-c089-4439-a585-d94e44378102.png",
+    "unaltered": true
+  },
+  "earbud-left.png": {
+    "sha256": "9b4025561e17882a5ea6c279ad4fe4f96ecb75e6cd6762a16f5bb5647d0f3080",
+    "source_generated_image": "exec-f212ca56-3861-4c38-94d0-26cb233bf920.png",
+    "unaltered": true
+  },
+  "earbud-right.png": {
+    "sha256": "d7d4ce164d153bb313a1fe400382e252c51b9632e884dc3c588abf271d540636",
+    "source_generated_image": "exec-1504ba76-34e9-41dd-bc3b-3d2eb42612d5.png",
+    "unaltered": true
+  }
+}
